@@ -1,0 +1,1 @@
+I created a Q&A model based on the BERT language model with the Hugging Face Transformers Library. Although BERT is pretrained on the SQuAD dataset, I fine tuned it on the SWAG dataset to get my model to answer multiple choice questions.
